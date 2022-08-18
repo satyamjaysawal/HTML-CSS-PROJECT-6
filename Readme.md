@@ -54,12 +54,12 @@ Just open your favorite code editor and follow along with the---
 The project is for the people who wanna get more skilled in HTML & CSS.
 Source code is available on my Git hub link
 
-[![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)](https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
-🔗[Source code](https://github.com/satyamjaysawal)(https://github.com/satyamjaysawal/HTML-CSS-PROJECT-1)
+[![image](https://user-images.githubusercontent.com/108862706/184493986-7bdd92e4-e060-4736-9365-f5e25448090c.png)](https://github.com/satyamjaysawal/HTML-CSS-PROJECT-6)
+🔗[Source code](https://github.com/satyamjaysawal)(https://github.com/satyamjaysawal/HTML-CSS-PROJECT-6)
 
 ## 🚀 Deployed Link : _Netlify_
-[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://html-css-p1.netlify.app/)
-(https://html-css-p1.netlify.app/)
+[![image](https://user-images.githubusercontent.com/108862706/184974666-250f6d16-200e-44c5-96cd-6e90a53b9f9c.png)](https://html-css-p6.netlify.app/)
+(https://html-css-p6.netlify.app/)
 
 
 
